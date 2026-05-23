@@ -50,21 +50,17 @@ This repository covers the main areas needed for the eJPT exam:
 |-- assets/
 `-- notes/
     |-- README.md
-    |-- source-notes/
-    |-- assessment-methodologies/
-    |-- host-network-auditing/
-    |-- host-network-pentest/
-    |-- web-application-pentest/
-    `-- cheatsheets/
+    |-- 01-assessment-methodologies/
+    |-- 02-host-network-auditing/
+    |-- 03-host-network-penetration-testing/
+    |-- 04-web-application-pentest/
+    |-- 05-cheatsheets-and-references/
+    `-- 06-labs-and-ctfs/
 ```
 
 ## How To Use These Notes
 
-Start from:
-
-[notes/source-notes/readme.md](notes/source-notes/readme.md)
-
-Then follow the topics in order:
+Start from [notes/README.md](notes/README.md), then follow the topics in order:
 
 1. Assessment and information gathering
 2. Scanning and enumeration
