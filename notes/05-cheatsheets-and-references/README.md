@@ -7,7 +7,7 @@ Quick references for services, tools, common commands, exam notes, and wordlists
 - [Common Wordlists & Tools](common-wordlists-tools.md)
 - [Course Notes Index](course-notes-index.md)
 - [eJPT - Cheat Sheets](ejpt-cheat-sheets.md)
-- [ejpt exam notes](ejpt-exam-notes.md)
+- [eJPT Exam Notes](ejpt-exam-notes.md)
 - [FTP](ftp.md)
 - [RDP](rdp.md)
 - [SMB - SAMBA](smb-samba.md)
