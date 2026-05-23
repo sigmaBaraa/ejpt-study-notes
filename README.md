@@ -1,25 +1,45 @@
 # eJPT Study Notes
 
-A portfolio-ready notes repository for the eJPT/eJPTv2 learning path. This project turns a raw Notion export into a clean knowledge base: organized topic areas, readable filenames, source-note navigation, and a structure that can grow into original writeups, labs, checklists, and references.
+Comprehensive study notes for the **eLearnSecurity Junior Penetration Tester (eJPT / eJPTv2)** certification.
 
-> Publishing note: the imported notes are kept as study material from the original Notion export. If you later identify copied paid-training text or unlicensed third-party assets, rewrite or remove that content before promoting the repository publicly.
+These notes are based on the **Penetration Testing Student (PTS)** learning path from **INE** and are organized to cover the full exam scope, from assessment methodology and enumeration to exploitation, post-exploitation, and web application penetration testing.
 
-## What This Project Contains
+## About the eJPT
 
-- A topic map for entry-level penetration testing study.
-- Organized sections aligned with the eJPTv2-style skill areas.
-- Cleaned source notes imported from the original Notion export.
-- A content review explaining what was found in the export.
-- Placeholder note areas for original summaries, lab reflections, and personal methodology.
-- A GitHub-friendly structure suitable for ongoing portfolio updates.
+The eJPT is an entry-level practical penetration testing certification. It validates the ability to perform the core tasks expected from a junior penetration tester in a hands-on environment.
 
-## Who It Is For
+The exam focuses on practical skills such as:
 
-This project is useful for:
+- discovering hosts and services
+- gathering information from public and internal sources
+- enumerating systems and network services
+- identifying vulnerabilities
+- exploiting vulnerable services in a lab environment
+- performing basic post-exploitation tasks
+- understanding web application fundamentals and common web testing workflows
 
-- Junior penetration testing students building a structured study plan.
-- Cybersecurity learners who want a clear path through enumeration, exploitation, post-exploitation, and web application testing.
-- Portfolio reviewers who want to see evidence of organized technical learning without exposing proprietary course material.
+## What These Notes Cover
+
+This repository covers the main areas needed for the eJPT exam:
+
+- Assessment Methodologies
+- Information Gathering
+- Footprinting and Scanning
+- Enumeration
+- Vulnerability Assessment
+- Auditing Fundamentals
+- Windows System and Host Based Attacks
+- Linux System and Host Based Attacks
+- Network-Based Attacks
+- Metasploit Framework
+- Exploitation
+- Post-Exploitation
+- Privilege Escalation
+- Pivoting
+- Common Services: FTP, SMB, SMTP, SNMP, SQL, SSH, RDP, WinRM, and HTTP
+- Web Application Penetration Testing
+- Practical CTF and exam-preparation notes
+- Cheatsheets and command references
 
 ## Repository Structure
 
@@ -27,13 +47,8 @@ This project is useful for:
 .
 |-- README.md
 |-- LICENSE
-|-- .gitignore
 |-- assets/
-|   `-- README.md
 |-- docs/
-|   |-- content-review.md
-|   |-- original-export-inventory.md
-|   `-- notion-metadata/
 `-- notes/
     |-- README.md
     |-- source-notes/
@@ -44,28 +59,28 @@ This project is useful for:
     `-- cheatsheets/
 ```
 
-## How To Browse
+## How To Use These Notes
 
-Start with [notes/README.md](notes/README.md), then use [notes/source-notes/README.md](notes/source-notes/README.md) to browse the imported Notion notes.
+Start from:
 
-The curated learning sections are:
+[notes/source-notes/README.md](notes/source-notes/README.md)
 
-1. Assessment Methodologies
-2. Host and Network Auditing
-3. Host and Network Penetration Testing
-4. Web Application Penetration Testing
-5. Cheatsheets and quick references
+Then follow the topics in order:
 
-Each section is designed to hold original notes, safe summaries, lab observations, commands, and lessons learned.
+1. Assessment and information gathering
+2. Scanning and enumeration
+3. Vulnerability assessment
+4. Host and network attacks
+5. Exploitation and Metasploit
+6. Post-exploitation and privilege escalation
+7. Web application penetration testing
+8. Cheatsheets and quick references
 
-## Why This Matters
+## Purpose
 
-Raw exports are hard to read and hard to maintain. This project keeps the useful learning structure while converting the export into a maintainable public knowledge base that can be expanded with original explanations and hands-on lab evidence.
+The goal of this repository is to provide a clear, organized, and practical reference for eJPT preparation. It is designed to make review easier by grouping the main PTS/eJPT topics into readable notes and quick references.
 
-## Suggested Repository Name
+## Disclaimer
 
-`ejpt-study-notes`
+These notes are for educational purposes and authorized lab practice only. Do not use the techniques or commands in this repository against systems you do not own or do not have explicit permission to test.
 
-## Suggested GitHub Description
-
-Organized eJPT/eJPTv2 penetration testing notes with cleaned Notion exports, topic indexes, and portfolio-ready documentation.
