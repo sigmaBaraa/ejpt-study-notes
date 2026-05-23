@@ -48,7 +48,6 @@ This repository covers the main areas needed for the eJPT exam:
 |-- README.md
 |-- LICENSE
 |-- assets/
-|-- docs/
 `-- notes/
     |-- README.md
     |-- source-notes/
@@ -63,7 +62,7 @@ This repository covers the main areas needed for the eJPT exam:
 
 Start from:
 
-[notes/source-notes/README.md](notes/source-notes/README.md)
+[notes/source-notes/readme.md](notes/source-notes/readme.md)
 
 Then follow the topics in order:
 
@@ -82,5 +81,4 @@ The goal of this repository is to provide a clear, organized, and practical refe
 
 ## Disclaimer
 
-These notes are for educational purposes and authorized lab practice only. Do not use the techniques or commands in this repository against systems you do not own or do not have explicit permission to test.
-
+These notes are for educational purposes and authorized lab practice only. The techniques and commands in this repository must only be used in systems where explicit permission has been granted.

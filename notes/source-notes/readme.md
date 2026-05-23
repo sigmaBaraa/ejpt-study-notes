@@ -1,8 +1,6 @@
-﻿# Imported Source Notes
+# Full Notes Index
 
-These files were restored from the Notion export and renamed into readable Markdown filenames.
-
-Review and rewrite any content that should not be published verbatim.
+This index lists the full eJPT study notes by topic.
 
 ## Index
 

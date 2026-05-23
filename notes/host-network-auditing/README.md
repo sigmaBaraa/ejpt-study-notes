@@ -1,6 +1,6 @@
 # Host and Network Auditing
 
-This section is for original notes about collecting and interpreting host and network evidence.
+This section covers collecting and interpreting host and network evidence.
 
 ## Topics To Rewrite Safely
 
@@ -10,7 +10,7 @@ This section is for original notes about collecting and interpreting host and ne
 - Hash and credential artifact handling
 - Service-level observations
 
-## Suggested Original Notes
+## Related Notes
 
 - `linux-enumeration.md`
 - `windows-enumeration.md`
@@ -18,7 +18,6 @@ This section is for original notes about collecting and interpreting host and ne
 - `hash-dumping-concepts.md`
 - `service-auditing.md`
 
-## Portfolio Angle
+## Focus
 
-This section should demonstrate disciplined auditing: what was checked, why it matters, and what defensive controls reduce the risk.
-
+The focus is disciplined auditing: what was checked, why it matters, and what defensive controls reduce the risk.

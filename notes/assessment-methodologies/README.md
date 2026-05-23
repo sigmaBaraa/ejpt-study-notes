@@ -1,6 +1,6 @@
 # Assessment Methodologies
 
-This section is for original notes about the early phases of a penetration test.
+This section covers the early phases of a penetration test.
 
 ## Topics To Rewrite Safely
 
@@ -10,7 +10,7 @@ This section is for original notes about the early phases of a penetration test.
 - Vulnerability assessment
 - Auditing fundamentals
 
-## Suggested Original Notes
+## Related Notes
 
 - `information-gathering.md`
 - `footprinting-and-scanning.md`
@@ -18,7 +18,6 @@ This section is for original notes about the early phases of a penetration test.
 - `vulnerability-assessment.md`
 - `auditing-fundamentals.md`
 
-## Portfolio Angle
+## Focus
 
-This section should show how you think before exploitation: scope, discovery, evidence collection, prioritization, and documentation.
-
+The focus is structured discovery, scope awareness, evidence collection, prioritization, and documentation.

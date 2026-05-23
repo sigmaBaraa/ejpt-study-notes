@@ -1,6 +1,5 @@
 # Assets
 
-Use this folder only for images and diagrams you created yourself or are explicitly licensed for reuse.
+This folder contains images and diagrams used by the notes.
 
-Do not copy third-party course screenshots or paid training images into the public repository.
-
+All assets should be relevant to the study material and appropriate for educational use.
