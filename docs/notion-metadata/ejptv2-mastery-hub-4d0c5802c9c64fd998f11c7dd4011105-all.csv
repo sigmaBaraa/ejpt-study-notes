@@ -1,0 +1,62 @@
+﻿Name,Category,Completed in INE,INE Section,Resource Type,Source Page,Study Status,Tool/Topic
+11. Host & Network Penetration Testing - Exploitation CTF_2,Exploitation,No,Section 3 - Host & Network Penetration Testing,Skill Check,,Mastered,Metasploit
+eJPT - Cheat Sheets,Other,No,,Index/Overview,,Not Started,General
+13. Host & Network Penetration Testing - Post-Exploitation CTF_1,Post-Exploitation,No,Section 3 - Host & Network Penetration Testing,Skill Check,,Not Started,Metasploit
+04. Vulnerability Assessment,Exploitation,No,Section 1 - Assessment Methodologies,Course Note,,Not Started,Nmap
+12. Introduction to the Web & HTTP Protocol,Web Attacks,No,Section 4 - Web Application Penetration Testing,Course Note,,Not Started,HTTP
+T1046,Networking,No,,Cheat Sheet,,Not Started,Nmap
+5. Host & Network Penetration Testing - System-Host Based Attacks CTF_1,System Security,No,Section 3 - Host & Network Penetration Testing,Skill Check,,Not Started,Metasploit
+Upgrading Shells,Post-Exploitation,No,,Cheat Sheet,,Not Started,Shells
+10. Post - Exploitation,Post-Exploitation,No,Section 3 - Host & Network Penetration Testing,Course Note,,In Progress,"Metasploit, Pivoting, PrivEsc, Shells"
+06a. System Host Based Attacks - Windows,System Security,No,Section 3 - Host & Network Penetration Testing,Course Note,,Not Started,"Metasploit, RDP, SMB, WinRM"
+Common Wordlists & Tools,Other,No,,Cheat Sheet,,Not Started,Wordlists
+11. Social Engineering,Other,No,Section 3 - Host & Network Penetration Testing,Course Note,,Not Started,General
+Dumping Hashes - Windows,Post-Exploitation,No,,Cheat Sheet,,Not Started,"Hashcat, Metasploit"
+Fixing Exploits - Manual (RCE),Exploitation,No,,Cheat Sheet,,Not Started,Nmap
+Dumping Hashes - Linux,Post-Exploitation,No,,Cheat Sheet,,Not Started,"Hashcat, Metasploit"
+SMTP,Networking,No,,Cheat Sheet,,Not Started,"Metasploit, Nmap, SMTP"
+SSH,Networking,No,,Cheat Sheet,,Not Started,"Hydra, Metasploit, Nmap, SSH"
+Enumeration - Linux,Enumeration,No,,Cheat Sheet,,Not Started,"Enumeration, Metasploit"
+Persistence - Linux,Post-Exploitation,No,,Cheat Sheet,,Not Started,"Metasploit, SSH"
+1. Assessment Methodologies - Information Gathering,Networking,No,,Skill Check,,Not Started,Nmap
+07. Network-Based Attacks,Networking,No,Section 3 - Host & Network Penetration Testing,Course Note,,Not Started,"Metasploit, Nmap, Pivoting, SMB, SNMP"
+08. The Metasploit Framework (MSF),Metasploit,No,Section 3 - Host & Network Penetration Testing,Course Note,,Not Started,"FTP, HTTP, Metasploit, Nmap, SMTP, SQL, SSH"
+2. Assessment Methodologies - Footprinting and Scanning,Networking,No,,Skill Check,,Not Started,Nmap
+Course Notes Index,Other,No,,Index/Overview,,Not Started,General
+15. Web Application Penetration Testing,Web Attacks,No,Section 4 - Web Application Penetration Testing,Skill Check,,Not Started,HTTP
+Reverse Shells,Post-Exploitation,No,,Cheat Sheet,,Not Started,"Metasploit, Shells"
+Enumeration - Windows,Enumeration,No,,Cheat Sheet,,Not Started,"Enumeration, Metasploit"
+01. Information Gathering,Networking,No,Section 1 - Assessment Methodologies,Course Note,,Not Started,"Hydra, Metasploit, Nmap"
+4. Assessment Methodologies - Vulnerability Assessment,Exploitation,No,,Skill Check,,Not Started,Nmap
+3. Assessment Methodologies - Enumeration,Enumeration,No,,Skill Check,,Not Started,Enumeration
+03. Enumeration,Enumeration,No,Section 1 - Assessment Methodologies,Course Note,,Not Started,Enumeration
+RDP,Networking,No,,Cheat Sheet,,Not Started,"Hydra, Metasploit, RDP"
+SNMP,Networking,No,,Cheat Sheet,,Not Started,"Nmap, SNMP"
+02. Footprinting and Scanning,Networking,No,Section 1 - Assessment Methodologies,Course Note,,Not Started,Nmap
+HTTP,Web Attacks,No,,Cheat Sheet,,Not Started,"HTTP, Hydra, Metasploit"
+Privilege Escalation - Windows,Privilege Escalation,No,,Cheat Sheet,,Not Started,"Metasploit, PrivEsc"
+Clearing Tracks - Linux,Post-Exploitation,No,,Cheat Sheet,,Not Started,
+10. Host & Network Penetration Testing - Exploitation CTF_1,Exploitation,No,Section 3 - Host & Network Penetration Testing,Skill Check,,Mastered,Metasploit
+FTP,Networking,No,,Cheat Sheet,,Not Started,"FTP, Hydra, Metasploit, Nmap"
+README,Other,No,,Index/Overview,,Not Started,General
+Skill-Check,Other,No,,Index/Overview,,Not Started,General
+Bind shells,Post-Exploitation,No,,Cheat Sheet,,Not Started,Shells
+Privilege Escalation - Linux,Privilege Escalation,No,,Cheat Sheet,,Not Started,"Metasploit, PrivEsc"
+06b. System & Host Based Attacks - Linux,System Security,No,Section 3 - Host & Network Penetration Testing,Course Note,,Not Started,"FTP, HTTP, SMB, SSH"
+7. Host & Network Penetration Testing - Network-Based Attacks CTF_1,Networking,No,Section 3 - Host & Network Penetration Testing,Skill Check,,Not Started,"Metasploit, SMB"
+9. Host & Network Penetration Testing - The Metasploit Framework CTF_2,Metasploit,No,Section 3 - Host & Network Penetration Testing,Skill Check,,Not Started,Metasploit
+8. Host & Network Penetration Testing - The Metasploit Framework CTF_1,Metasploit,No,Section 3 - Host & Network Penetration Testing,Skill Check,,Not Started,Metasploit
+Transfer Files,Other,No,,Cheat Sheet,,Not Started,
+WinRM,Networking,No,,Cheat Sheet,,Not Started,"Hydra, Metasploit, WinRM"
+SQL,Networking,No,,Cheat Sheet,,Not Started,"Metasploit, Nmap, SQL"
+05. Auditing Fundamentals,System Security,No,Section 2 - Host & Networking Auditing,Course Note,,Not Started,
+12. Host & Network Penetration Testing - Exploitation CTF_3,Exploitation,No,Section 3 - Host & Network Penetration Testing,Skill Check,,Mastered,Metasploit
+Persistence - Windows,Post-Exploitation,No,,Cheat Sheet,,Not Started,"Metasploit, SMB"
+Clearing Tracks - Windows,Post-Exploitation,No,,Cheat Sheet,,Not Started,
+14. Host & Network Penetration Testing - Post-Exploitation CTF_2,Post-Exploitation,No,Section 3 - Host & Network Penetration Testing,Skill Check,,Not Started,Metasploit
+09. Exploitation,Exploitation,No,Section 3 - Host & Network Penetration Testing,Course Note,,Mastered,Nmap
+Pivoting,Pivoting,No,,Cheat Sheet,,Not Started,"Metasploit, Nmap, Pivoting"
+SMB - SAMBA,Networking,No,,Cheat Sheet,,Not Started,"Hydra, Metasploit, Nmap, SMB"
+6. Host & Network Penetration Testing - System-Host Based Attacks CTF_2,System Security,No,Section 3 - Host & Network Penetration Testing,Skill Check,,Not Started,Metasploit
+Blog Room,,Yes,,THM,,Mastered,
+ejpt exam notes,,No,,,,,

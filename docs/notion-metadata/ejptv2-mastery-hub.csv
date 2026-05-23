@@ -1,0 +1,62 @@
+﻿Name,Category,Resource Type,Study Status,Tool/Topic
+5. Host & Network Penetration Testing - System-Host Based Attacks CTF_1,System Security,Skill Check,Not Started,Metasploit
+6. Host & Network Penetration Testing - System-Host Based Attacks CTF_2,System Security,Skill Check,Not Started,Metasploit
+09. Exploitation,Exploitation,Course Note,Mastered,Nmap
+10. Host & Network Penetration Testing - Exploitation CTF_1,Exploitation,Skill Check,Mastered,Metasploit
+11. Host & Network Penetration Testing - Exploitation CTF_2,Exploitation,Skill Check,Mastered,Metasploit
+12. Host & Network Penetration Testing - Exploitation CTF_3,Exploitation,Skill Check,Mastered,Metasploit
+10. Post - Exploitation,Post-Exploitation,Course Note,In Progress,"Metasploit, Pivoting, PrivEsc, Shells"
+13. Host & Network Penetration Testing - Post-Exploitation CTF_1,Post-Exploitation,Skill Check,Not Started,Metasploit
+14. Host & Network Penetration Testing - Post-Exploitation CTF_2,Post-Exploitation,Skill Check,Not Started,Metasploit
+8. Host & Network Penetration Testing - The Metasploit Framework CTF_1,Metasploit,Skill Check,Not Started,Metasploit
+9. Host & Network Penetration Testing - The Metasploit Framework CTF_2,Metasploit,Skill Check,Not Started,Metasploit
+7. Host & Network Penetration Testing - Network-Based Attacks CTF_1,Networking,Skill Check,Not Started,"Metasploit, SMB"
+06b. System & Host Based Attacks - Linux,System Security,Course Note,Not Started,"FTP, HTTP, SMB, SSH"
+08. The Metasploit Framework (MSF),Metasploit,Course Note,Not Started,"FTP, HTTP, Metasploit, Nmap, SMTP, SQL, SSH"
+07. Network-Based Attacks,Networking,Course Note,Not Started,"Metasploit, Nmap, Pivoting, SMB, SNMP"
+11. Social Engineering,Other,Course Note,Not Started,General
+06a. System Host Based Attacks - Windows,System Security,Course Note,Not Started,"Metasploit, RDP, SMB, WinRM"
+Blog Room,,THM,Mastered,
+SMB - SAMBA,Networking,Cheat Sheet,Not Started,"Hydra, Metasploit, Nmap, SMB"
+Pivoting,Pivoting,Cheat Sheet,Not Started,"Metasploit, Nmap, Pivoting"
+Clearing Tracks - Windows,Post-Exploitation,Cheat Sheet,Not Started,
+Persistence - Windows,Post-Exploitation,Cheat Sheet,Not Started,"Metasploit, SMB"
+SQL,Networking,Cheat Sheet,Not Started,"Metasploit, Nmap, SQL"
+WinRM,Networking,Cheat Sheet,Not Started,"Hydra, Metasploit, WinRM"
+Transfer Files,Other,Cheat Sheet,Not Started,
+Privilege Escalation - Linux,Privilege Escalation,Cheat Sheet,Not Started,"Metasploit, PrivEsc"
+Bind shells,Post-Exploitation,Cheat Sheet,Not Started,Shells
+Skill-Check,Other,Index/Overview,Not Started,General
+README,Other,Index/Overview,Not Started,General
+FTP,Networking,Cheat Sheet,Not Started,"FTP, Hydra, Metasploit, Nmap"
+Clearing Tracks - Linux,Post-Exploitation,Cheat Sheet,Not Started,
+Privilege Escalation - Windows,Privilege Escalation,Cheat Sheet,Not Started,"Metasploit, PrivEsc"
+HTTP,Web Attacks,Cheat Sheet,Not Started,"HTTP, Hydra, Metasploit"
+SNMP,Networking,Cheat Sheet,Not Started,"Nmap, SNMP"
+RDP,Networking,Cheat Sheet,Not Started,"Hydra, Metasploit, RDP"
+3. Assessment Methodologies - Enumeration,Enumeration,Skill Check,Not Started,Enumeration
+4. Assessment Methodologies - Vulnerability Assessment,Exploitation,Skill Check,Not Started,Nmap
+Enumeration - Windows,Enumeration,Cheat Sheet,Not Started,"Enumeration, Metasploit"
+Reverse Shells,Post-Exploitation,Cheat Sheet,Not Started,"Metasploit, Shells"
+Course Notes Index,Other,Index/Overview,Not Started,General
+2. Assessment Methodologies - Footprinting and Scanning,Networking,Skill Check,Not Started,Nmap
+1. Assessment Methodologies - Information Gathering,Networking,Skill Check,Not Started,Nmap
+Persistence - Linux,Post-Exploitation,Cheat Sheet,Not Started,"Metasploit, SSH"
+Enumeration - Linux,Enumeration,Cheat Sheet,Not Started,"Enumeration, Metasploit"
+SSH,Networking,Cheat Sheet,Not Started,"Hydra, Metasploit, Nmap, SSH"
+SMTP,Networking,Cheat Sheet,Not Started,"Metasploit, Nmap, SMTP"
+Dumping Hashes - Linux,Post-Exploitation,Cheat Sheet,Not Started,"Hashcat, Metasploit"
+Fixing Exploits - Manual (RCE),Exploitation,Cheat Sheet,Not Started,Nmap
+Dumping Hashes - Windows,Post-Exploitation,Cheat Sheet,Not Started,"Hashcat, Metasploit"
+Common Wordlists & Tools,Other,Cheat Sheet,Not Started,Wordlists
+Upgrading Shells,Post-Exploitation,Cheat Sheet,Not Started,Shells
+T1046,Networking,Cheat Sheet,Not Started,Nmap
+eJPT - Cheat Sheets,Other,Index/Overview,Not Started,General
+ejpt exam notes,,,,
+04. Vulnerability Assessment,Exploitation,Course Note,Not Started,Nmap
+12. Introduction to the Web & HTTP Protocol,Web Attacks,Course Note,Not Started,HTTP
+15. Web Application Penetration Testing,Web Attacks,Skill Check,Not Started,HTTP
+01. Information Gathering,Networking,Course Note,Not Started,"Hydra, Metasploit, Nmap"
+03. Enumeration,Enumeration,Course Note,Not Started,Enumeration
+02. Footprinting and Scanning,Networking,Course Note,Not Started,Nmap
+05. Auditing Fundamentals,System Security,Course Note,Not Started,
