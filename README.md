@@ -1,6 +1,6 @@
-# eJPT Study Notes
+# eJPT Exam Notes
 
-Comprehensive study notes for the **eLearnSecurity Junior Penetration Tester (eJPT / eJPTv2)** certification.
+Comprehensive **eJPT exam notes** and **eJPTv2 study notes** for the **eLearnSecurity Junior Penetration Tester (eJPT / eJPTv2)** certification.
 
 These notes are based on the **Penetration Testing Student (PTS)** learning path from **INE** and are organized to cover the full exam scope, from assessment methodology and enumeration to exploitation, post-exploitation, and web application penetration testing.
 
@@ -41,11 +41,24 @@ This repository covers the main areas needed for the eJPT exam:
 - Practical CTF and exam-preparation notes
 - Cheatsheets and command references
 
+## eJPT Exam Notes
+
+The dedicated exam-notes page is available here:
+
+[eJPT Exam Notes](ejpt-exam-notes.md)
+
+It includes host discovery, service mapping, credentials, hashes, Drupal database notes, pivoting information, and internal-network findings.
+
+## Search Keywords
+
+`eJPT exam notes`, `eJPTv2 exam notes`, `eJPT study notes`, `INE PTS notes`, `Junior Penetration Tester notes`, `penetration testing student notes`, `eLearnSecurity eJPT notes`
+
 ## Repository Structure
 
 ```text
 .
 |-- README.md
+|-- ejpt-exam-notes.md
 |-- LICENSE
 |-- assets/
 `-- notes/
